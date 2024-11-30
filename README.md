@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Claudia Anunciação @anjesinfo
 
-- 🌱 Atualmente estou aprendendo a programar em FrontEnd !
+- 🌱 Atualmente estou aprendendo a programar em Front-End !
 
 - 📫 Como entrar em contato comigo https://www.linkedin.com/in/claudia-anuncia%C3%A7%C3%A3o-de-jesus-00114329/
 
